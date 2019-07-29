@@ -1,3 +1,5 @@
+![https://img.shields.io/badge/Linkedin-MessageMe-blue?style=flat-square&logo=linkedin](https://www.linkedin.com/in/stratton/)
+
 # Come Build The Future With Us
 Solving hard problems is just that — hard. But at [Amazon](https://www.amazon.jobs), we believe in possibilities that arise when you shoot for the moon. This is our approach, and has been since the first day we launched Amazon.com in 1995. We make smart, fast decisions, stay nimble, innovate and invent — all while staying focused on delighting customers.
 
